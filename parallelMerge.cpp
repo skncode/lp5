@@ -2,7 +2,7 @@
 #include <vector>
 #include <omp.h>
 
-usingnamespace std;
+usingname space std;
 
 void merge(vector<int>& arr, int left, int mid, int right) {
 int n1 = mid - left + 1;
